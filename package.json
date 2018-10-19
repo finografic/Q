@@ -1,0 +1,11 @@
+{
+  "main": "Q.ts",
+  "version": "0.0.0",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/topdillin/Q.git"
+  },
+  "dependencies": {
+    "detect-browser": "^3.0.1"
+  }
+}
